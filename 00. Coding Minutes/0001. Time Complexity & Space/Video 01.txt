@@ -1,0 +1,16 @@
+Observing and Understanding the Problem :
+
+Observing Time Complexity:
+
+10^8 Operations / second
+
+n<=12                 n!
+n<=25                2^n
+n<=100               n^4
+n<=500              n^3
+n<=10^4              n^2
+n<=10^6              nlogn
+n<=10^8               n
+n>10^8                logn/1 (mathematical)
+
+Imp Link: https://codeforces.com/blog/entry/21344

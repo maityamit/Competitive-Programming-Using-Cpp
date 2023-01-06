@@ -1,0 +1,22 @@
+//Sequence Container
+Array
+Vector
+Dequeu
+List
+
+//Associative Containers (Tree Like DS - Data sorted)
+Set
+Map
+Multiset
+MultiMap
+
+//Unordered Associative Containers O(1)
+Unordered Set
+Unordered Map
+Unordered Multiset
+Unordered MultiMap
+
+//Containers Adaptors
+Stack (LIFO)
+Queue (FIFO)
+Priority Queue (Min/Max) [Heap]
